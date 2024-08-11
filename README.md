@@ -1,16 +1,19 @@
-## Hi there 👋
+# SUHWANN_CODE
+### 
+## 🧭 Experience
+|Period|Description|
+|---|---|
+|2024.06 ~ 2024.12|인하대학교 프로그래밍 동아리 IGRUS 회장|
+|2024.03 ~ |인하대학교 프로그래밍 동아리 IGRUS 운영진|
+## 🎖️ Certificate
+|Date|Description|
+|---|---|
+|2024.??|생길 예정|
+## 💻 Project
+|Period|Title|Description|GitHub Repository URL|
+|---|---|---|---|
+## 🧩 Algorithm Problem Solving
+<p align="left">
+  <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=umsuhwann132">
+</p>
 
-<!--
-**Um-SuHwann/Um-SuHwann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
